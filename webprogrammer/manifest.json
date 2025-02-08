@@ -1,5 +1,5 @@
 {
-  "name": "Element 14 Netwerk monitor",
+  "name": "ESP Netwerk monitor",
   "builds": [
     {
       "chipFamily": "ESP32",
